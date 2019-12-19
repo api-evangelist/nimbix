@@ -1,0 +1,66 @@
+{
+    "name": "nimbix",
+    "description": "High Performance Computing and Supercomputing Platform",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1343-nimbix.jpg",
+    "tags": [
+        "api provider",
+        "cloud",
+        "computing",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/nimbix\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "nimbix",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1343-nimbix.jpg",
+            "humanURL": "http:\/\/www.nimbix.net\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/nimbix-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.nimbix.net\/blog\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/nimbix"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/nimbix"
+        },
+        {
+            "type": "Email",
+            "url": "sales@nimbix.net"
+        },
+        {
+            "type": "Email",
+            "url": "info@nimbix.net"
+        },
+        {
+            "type": "Email",
+            "url": "support@nimbix.net"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Nimbix"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.nimbix.net\/"
+        }
+    ]
+}
